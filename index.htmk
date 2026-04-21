@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- العنوان الأهم لمحركات البحث (يظهر في نتائج البحث) -->
+    <title>عبدالله الشلبي | مبرمج ومدرس أمن سيبراني</title>
+    
+    <!-- الوصف الميتا (يظهر تحت العنوان في نتائج البحث ويؤثر على نسبة النقر) -->
+    <meta name="description" content="مرحباً أنا عبدالله الشلبي، مبرمج ومدرس أمن سيبراني. أقدم دروساً في البرمجة والأمن السيبراني وحماية الأنظمة. تواصل معي لتعلم أساسيات الأمن السيبراني.">
+    
+    <!-- الكلمات المفتاحية (لم تعد مؤثرة لكن نضعها للتاريخ أو لمحركات ضعيفة) -->
+    <meta name="keywords" content="عبدالله الشلبي, المبرمج عبدالله الشلبي, مدرس امن سيبراني, الأمن السيبراني, البرمجة, حماية الأنظمة">
+    
+    <!-- نسبة العرض على الجوال -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        h2 {
+            color: #2980b9;
+        }
+        .bio {
+            text-align: justify;
+            line-height: 1.6;
+            color: #333;
+        }
+        .contact {
+            margin-top: 20px;
+            background: #ecf0f1;
+            padding: 15px;
+            border-radius: 5px;
+        }
+        a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- العنوان الرئيسي للصفحة (يجب أن يحتوي على أهم الكلمات) -->
+        <h1>عبدالله الشلبي</h1>
+        <h2>مبرمج ومدرس أمن سيبراني</h2>
+        
+        <!-- المحتوى الأساسي (هنا تكتب الكلمات المفتاحية بشكل طبيعي ومتكرر) -->
+        <div class="bio">
+            <p>مرحباً! أنا <strong>عبدالله الشلبي</strong>، <strong>مبرمج</strong> و <strong>مدرس أمن سيبراني</strong> بخبرة تزيد عن 5 سنوات. أهتم بتعليم الآخرين أساسيات البرمجة وكيفية حماية أنظمتهم من الاختراقات.</p>
+            
+            <p>كوني <strong>مدرس أمن سيبراني</strong>، أقدم دورات تغطي مواضيع مثل: اختبار الاختراق الأخلاقي، تأمين الشبكات، وتحليل الثغرات. كما أعمل على مشاريع برمجية تساعد في كشف التهديدات السيبرانية.</p>
+            
+            <p>إذا كنت تبحث عن <strong>مبرمج عبدالله الشلبي</strong> لتطوير موقعك أو تطبيقك، أو تريد الاستفسار عن دورات <strong>مدرس أمن سيبراني</strong>، فأنت في المكان الصحيح.</p>
+        </div>
+        
+        <div class="contact">
+            <h3>طرق التواصل</h3>
+            <p>📧 البريد الإلكتروني: <a href="mailto:abdualhali792@gmail.com">Email</a></p>
+            
+        </div>
+        
+        <!-- روابط داخلية (تحسن تجربة المستخدم وSEO) -->
+        <p><a href="courses.html">اطلع على دورات الأمن السيبراني</a> | <a href="projects.html">مشاريعي البرمجية</a></p>
+    </div>
+</body>
+</html>
